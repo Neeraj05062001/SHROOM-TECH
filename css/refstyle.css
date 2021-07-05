@@ -507,7 +507,9 @@ footer{
       padding: 0;
     }
     .navbar {z-index : 99999 }
-   
+   footer p{
+     font-size: small;
+   }
 
   }  
   
