@@ -494,10 +494,20 @@ footer{
       
       cursor: pointer;
     }
+    footer input[type=email]{
+      width : 70.5%;
+    }
     footer .button_1{
       width:70%;
     }
+    #showcase-2 p{
+      font-size: smaller;
+      text-align: left;
+      margin : 0;
+      padding: 0;
+    }
     .navbar {z-index : 99999 }
+   
 
   }  
   
