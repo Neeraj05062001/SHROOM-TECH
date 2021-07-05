@@ -500,7 +500,7 @@ footer{
     footer .button_1{
       width:70%;
     }
-    #showcase-2 p{
+     #showcase-2 p{
       font-size: smaller;
       text-align: left;
       margin : 0;
@@ -508,7 +508,7 @@ footer{
     }
     .navbar {z-index : 99999 }
    footer p{
-     font-size: large;
+     font-size: small;
    }
 
   }  
