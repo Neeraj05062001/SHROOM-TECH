@@ -94,7 +94,7 @@ header .btn{
 #empty{
   
   min-height: 500px;
-  background : url("Images\t1.jpg") no-repeat;
+  background : url("t1.jpg") no-repeat;
 
   background-position: center;
   background-size: cover;
@@ -104,7 +104,7 @@ header .btn{
 /* Home page background picture */
 #showcase-1{
   min-height: 500px;
-  background : url("Images\d1.jpg") no-repeat;
+  background : url("d1.jpg") no-repeat;
 
   background-position: center;
   background-size: cover;
@@ -131,7 +131,7 @@ opacity: 0.6;
 /* about page background picture */
 #showcase-2{
   min-height: 450px;
-  background : url("Images\wall.jpg");
+  background : url("wall.jpg");
   
   background-position: center;
   background-size: cover;
@@ -162,7 +162,7 @@ opacity: 0.6;
 /* Same transbox which is used for home page is used */
 #TECHNOLOGY{
   min-height: 400px;
-  background : url("Images\tech.jpg") no-repeat ;
+  background : url("tech.jpg") no-repeat ;
 
   background-position: center;
   background-size: cover;
